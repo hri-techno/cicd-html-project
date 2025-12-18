@@ -52,7 +52,7 @@ cicd-html-project/
 
 \## 🌐 Live Demo
 
-https://your-username.github.io/cicd-html-project/
+https://hri-techno.github.io/cicd-html-project/
 
 The live website is hosted using GitHub Pages.
 
